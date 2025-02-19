@@ -1,4 +1,4 @@
-# Image Steganography Using LSB Technique
+# Secure Data Hiding in Image Using Steganography
 
 A simple Python-based steganography project that hides a secret message and passcode in an image using Least-Significant-Bit (LSB) encoding, and later retrieves the message securely.
 
